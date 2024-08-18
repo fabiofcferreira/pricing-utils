@@ -1,12 +1,12 @@
 {
-  "name": "ts-package-template",
+  "name": "pricing-utils",
   "type": "module",
   "description": "TypeScript package template to starting shipping at light speed",
   "main": "dist/index.js",
   "files": [
     "dist"
   ],
-  "repository": "git@github.com:fabiofcferreira/ts-package-template.git",
+  "repository": "git@github.com:fabiofcferreira/pricing-utils.git",
   "author": "Fábio Ferreira <ffcfpten@gmail.com>",
   "license": "MIT",
   "scripts": {
