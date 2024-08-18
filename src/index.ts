@@ -1,1 +1,2 @@
-export {roundPrice, addVatToNetPrice} from './rounding'
+export { roundPrice } from './rounding';
+export { addVatToNetPrice } from './vat';
