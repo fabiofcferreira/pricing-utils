@@ -1,5 +1,5 @@
 {
-  "name": "pricing-utils",
+  "name": "@fabiofcferreira/pricing-utils",
   "type": "module",
   "description": "TypeScript package template to starting shipping at light speed",
   "main": "dist/index.js",
