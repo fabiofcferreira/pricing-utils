@@ -1,7 +1,7 @@
 {
   "name": "pricing-utils",
   "type": "module",
-  "description": "TypeScript package template to starting shipping at light speed",
+  "description": "Simple pricing utils to reduce code replication & calculation errors",
   "main": "dist/index.js",
   "files": [
     "dist"
