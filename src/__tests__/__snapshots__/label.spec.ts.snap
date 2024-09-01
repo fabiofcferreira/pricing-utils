@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Labels should generate correct labels for en-GB locale 1`] = `"£10.55"`;
+
+exports[`Labels should generate correct labels for en-GB locale 2`] = `"€10.20"`;
+
+exports[`Labels should generate correct labels for en-US locale 1`] = `"£10.55"`;
+
+exports[`Labels should generate correct labels for en-US locale 2`] = `"€10.20"`;
+
+exports[`Labels should generate correct labels for pt-PT locale 1`] = `"10,55 £"`;
+
+exports[`Labels should generate correct labels for pt-PT locale 2`] = `"10,20 €"`;
