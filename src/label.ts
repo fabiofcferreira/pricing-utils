@@ -1,3 +1,9 @@
+/**
+ * Format to human readable label
+ * @param amount Amount
+ * @param currency Currency ISO code
+ * @param locale Format locale (defaults to 'en-GB')
+ */
 export function formatToLabel({
   amount,
   currency,
