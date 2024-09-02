@@ -1,6 +1,5 @@
 {
   "name": "pricing-utils",
-  "type": "module",
   "description": "Simple pricing utils to reduce code replication & calculation errors",
   "main": "dist/index.js",
   "files": [
